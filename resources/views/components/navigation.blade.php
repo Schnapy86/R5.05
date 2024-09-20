@@ -1,7 +1,7 @@
 <nav class="container-wide">
     <ul>
         <li @class(['current' => true])>
-            <a href="/"><span class="logo"><h1>XYZ</h1></a></span>
+            <a href="/"><span class="logo"><h1>XYZ</h1></a> 
         </li>
 
         <li @class(['current' => false])>
