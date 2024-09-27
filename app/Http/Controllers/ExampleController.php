@@ -6,10 +6,10 @@ use Illuminate\Http\Request;
 
 class ExampleController extends Controller
 {
-    public function list()
+    /*public function list()
     {
         return view('app.home');
-    }
+    }*/
 
     public function show()
     {
